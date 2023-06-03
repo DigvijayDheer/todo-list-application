@@ -4,10 +4,10 @@
   "description": "simple todo list application for daily use",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "server": "nodemon server.js",
-    "client": "npm start --prefix view"
+    "client": "npm start --prefix view",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "author": "Digvijay Dheer",
   "license": "ISC",
@@ -21,6 +21,7 @@
     "mongoose": "^7.2.2"
   },
   "devDependencies": {
+    "concurrently": "^8.1.0",
     "nodemon": "^2.0.22"
   }
 }
