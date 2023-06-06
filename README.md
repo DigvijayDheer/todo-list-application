@@ -3,7 +3,7 @@
 ## Usage
 
 add .env file to add your MONGO_URI
-##content in .env file
+
 - MONGO_URI = <your mongodb url>
 - NDOE_EVN = development || production
 - PORT = 8000
