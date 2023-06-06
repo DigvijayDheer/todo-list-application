@@ -4,10 +4,10 @@
 
 add .env file to add your MONGO_URI
 
-- MONGO_URI = <your mongodb url>
+- MONGO_URI = your mongodb url
 - NODE_ENV = development || production
 - PORT = 8000
-- JWT_SECRET = <your jwt token>
+- JWT_SECRET = your jwt token
 ### Install dependencies
 
 ```
