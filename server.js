@@ -18,15 +18,15 @@ app.use("/api/todos", require("./routes/todoRoutes"));
 app.use("/api/users", require("./routes/userRoutes"));
 
 // Serve frontend
-if (process.env.NODE_ENV === "production") {
-  app.use(express.static(path.join(__dirname, "../view/build")));
+// if (process.env.NODE_ENV === "production") {
+//   app.use(express.static(path.join(__dirname, "../view/build")));
 
-  app.get("*", (req, res) => {
-    res.sendFile(path.resolve(__dirname, "../", "view", "build", "index.html"));
-  });
-} else {
-  app.get("/", (req, res) => res.send("Please set to production"));
-}
+//   app.get("*", (req, res) => {
+//     res.sendFile(path.resolve(__dirname, "../", "view", "build", "index.html"));
+//   });
+// } else {
+//   app.get("/", (req, res) => res.send("Please set to production"));
+// }
 
 app.use(errorHandler);
 
