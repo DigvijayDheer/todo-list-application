@@ -55,16 +55,16 @@ To use this application, follow the steps below:
 To install the Todo List app on your mobile device, follow these steps:
 
 1. Open your mobile browser and navigate to the app URL.
-   ![Mobile View](/screenshots/Mobile_1.jpeg)
+   <img src="/screenshots/Mobile_1.jpeg" alt="Desktop View"  width="250"/>
 
 2. Click on the browser's menu and select "Install App" or "Add to Home Screen" (as per your browser).
-   ![Mobile View](/screenshots/Mobile_2.jpeg) ![Mobile View](/screenshots/Mobile_3.jpeg) ![Mobile View](/screenshots/Mobile_4.jpeg)
+   <img src="/screenshots/Mobile_2.jpeg" alt="Desktop View"  width="250"/> <img src="/screenshots/Mobile_3.jpeg" alt="Desktop View"  width="250"/> <img src="/screenshots/Mobile_4.jpeg" alt="Desktop View"  width="250"/>
 
 3. Follow the prompts to add the app to your home screen.
-   ![Mobile View](/screenshots/Mobile_5.jpeg)
+   <img src="/screenshots/Mobile_5.jpeg" alt="Desktop View"  width="250"/>
 
 Now, you can access the Todo List app directly from your mobile home screen.
-![Mobile View](/screenshots/Mobile_6.jpeg) ![Mobile View](/screenshots/Mobile_7.jpeg)
+<img src="/screenshots/Mobile_6.jpeg" alt="Desktop View"  width="250"/> <img src="/screenshots/Mobile_7.jpeg" alt="Desktop View"  width="250"/>
 
 ## Installation on Desktop
 
@@ -81,6 +81,3 @@ Now, you can launch the Todo List app from your desktop like any other installed
 ![Desktop View](/screenshots/Desktop_4.png)
 
 Feel free to contribute by opening issues or creating pull requests.
-
-<img src="/screenshots/Desktop_1.png" alt="Desktop View" width="600"/>
-<img src="/screenshots/Mobile_1.jpeg" alt="Desktop View" width="300"/>
