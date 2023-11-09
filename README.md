@@ -81,3 +81,6 @@ Now, you can launch the Todo List app from your desktop like any other installed
 ![Desktop View](/screenshots/Desktop_4.png)
 
 Feel free to contribute by opening issues or creating pull requests.
+
+<img src="/screenshots/Desktop_1.png" alt="Desktop View" width="600"/>
+<img src="/screenshots/Mobile_1.jpeg" alt="Desktop View" width="300"/>
